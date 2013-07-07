@@ -1,3 +1,5 @@
 line1blah lhchd/nhi how are you
 line3 >> file.txt
 
+newline
+another nuew line
